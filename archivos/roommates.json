@@ -1,0 +1,26 @@
+{
+ "roommates": [
+  {
+   "id": "f1bcd38e-fd86-45d2-bbcb-0022c22244e3",
+   "nombre": "Bar Sinso",
+   "debe": "35000",
+   "recibe": "17000"
+  },
+  {
+   "id": "cfe5643f-a71d-4a53-b9ae-2558c7015593",
+   "nombre": "Homero Simpson"
+  },
+  {
+   "id": "3a84d7e7-40eb-480a-a171-76377dadf8be",
+   "nombre": "Arin Øwre",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "24527e56-cea6-4c37-950d-0d3a16227460",
+   "nombre": "Acílio da Rocha",
+   "debe": "",
+   "recibe": ""
+  }
+ ]
+}

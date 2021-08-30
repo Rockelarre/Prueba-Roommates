@@ -1,0 +1,40 @@
+{
+ "gastos": [
+  {
+   "roommate": "Bar Sinso",
+   "descripcion": "Aerosol",
+   "monto": 6500,
+   "id": "cd0570c5-1332-4760-961e-a29490a114ad"
+  },
+  {
+   "roommate": "Homero Simpson",
+   "descripcion": "Cerveza",
+   "monto": 8500,
+   "id": "b2439c89-b13f-49c3-802f-14b4b29a66c8"
+  },
+  {
+   "roommate": "Homero Simpson",
+   "descripcion": "Rosquillas",
+   "monto": 3500,
+   "id": "4e2e93b3-2820-4fac-afa2-aba187c46a6b"
+  },
+  {
+   "roommate": "Bar Sinso",
+   "descripcion": "Resortera",
+   "monto": 7800,
+   "id": "bef4a8e8-f879-4707-826c-d72ead3cac89"
+  },
+  {
+   "id": "5c036278-8d56-4f00-9893-574a05d719fc",
+   "roommate": "Bar Sinso",
+   "descripcion": "Gorra",
+   "monto": 15000
+  },
+  {
+   "id": "098b276d-a974-4099-84dd-d0f6318a30ca",
+   "roommate": "Acílio da Rocha",
+   "descripcion": "Notebook",
+   "monto": 650000
+  }
+ ]
+}
