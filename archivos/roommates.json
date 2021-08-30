@@ -1,24 +1,20 @@
 {
  "roommates": [
   {
-   "id": "f1bcd38e-fd86-45d2-bbcb-0022c22244e3",
-   "nombre": "Bar Sinso",
-   "debe": "35000",
-   "recibe": "17000"
-  },
-  {
-   "id": "cfe5643f-a71d-4a53-b9ae-2558c7015593",
-   "nombre": "Homero Simpson"
-  },
-  {
-   "id": "3a84d7e7-40eb-480a-a171-76377dadf8be",
-   "nombre": "Arin Øwre",
+   "id": "2575e553-afa5-453a-92dd-a41032aca77f",
+   "nombre": "Walter Willis",
    "debe": "",
    "recibe": ""
   },
   {
-   "id": "24527e56-cea6-4c37-950d-0d3a16227460",
-   "nombre": "Acílio da Rocha",
+   "id": "aa57c0f1-f125-499d-aef2-6292168546fb",
+   "nombre": "Terri Schmidt",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "06a357d4-2690-4328-a24f-d68642b442eb",
+   "nombre": "Massimiliano Roussel",
    "debe": "",
    "recibe": ""
   }
